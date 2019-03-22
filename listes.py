@@ -96,6 +96,9 @@ testtext =     \
 { XC 32R !C! } \
 C!"
 
+
+
+#________________________________________________Tests______________________________________________
 #
 ## Décommentez pour tester
 #test_seq = conversion (testtext)
