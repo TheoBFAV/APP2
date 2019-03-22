@@ -170,6 +170,7 @@ def interprete (cur, prog, debug=False):
     print('Prog : ', " ".join(liste_prog))
     print()
 
+#______________________________Tests opérateurs +, - et * __________________________________
 """ prog= Sequence()
 prog.insertion_queue('2')
 prog.insertion_queue('3')
