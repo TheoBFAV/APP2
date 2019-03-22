@@ -239,6 +239,9 @@ def interprete (cur, prog, debug=False):
                 pile.pop()
                 pile.pop()
                 routine.tete=routine.tete.suivant
+                c=routine.tete.valeur
+                
+                continue
 
         elif c=="R":
 
